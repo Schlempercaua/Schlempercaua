@@ -1,6 +1,7 @@
 ### Hello, I'm Cauã Schlemper!
 
 -  Currently working as a backend developer
+-  Software engineer backend - Sellers
 -  Software engineering student -Infnet
 
 ##
